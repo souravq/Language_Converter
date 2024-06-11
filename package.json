@@ -1,0 +1,17 @@
+{
+  "name": "convert_lang_into_english_from_korean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-translate-api": "^2.3.0",
+    "pdf-lib": "^1.17.1",
+    "tesseract.js": "^5.1.0"
+  }
+}
